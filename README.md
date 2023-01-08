@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m Zoltán, a tech enthusiast from Switzerland. You can find me also on www.zoltans.co.
+
 <!--
 **zoltans-co/zoltans-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
